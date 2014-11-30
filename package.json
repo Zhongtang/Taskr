@@ -1,0 +1,17 @@
+{
+    "name": "Taskr",
+    "version": "0.0.1",
+    "description": "Node app",
+    "author": "Zhongtang Tian <tianzhongtang@gmail.com>",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Zhongtang/Taskr.git"
+    },
+    "dependencies": {
+        "express": "4.x"
+    }
+}
